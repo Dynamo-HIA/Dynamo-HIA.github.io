@@ -24,9 +24,11 @@ The software is available for several operating systems, and both with and witho
 
 ### Version 2.0.8
 
-2.0.8 is the last version of the 2.0 series, build with Java 8. It is only available for Windows.
+2.0.8 is the last version of the 2.0 series, build with Java 8. The binary version is only available for Windows.
 
-DOWNLOAD LINK
+[Download binary release from GitHub (zip)](https://github.com/Dynamo-HIA/dynamo-hia/releases/download/v7.0.8/DYNAMO-HIA-2.08.Application24082108.zip)
+
+[Source code on GitHub](https://github.com/Dynamo-HIA/dynamo-hia/releases/tag/v2.0.8)
 
 After downloading, please unpack the zip file and run 'DYNAMO-HIA.exe' in 'DYNAMO-HIA application/eclipse' to get started.
 
