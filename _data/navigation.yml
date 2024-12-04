@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Software"
+    url: /software
+  - title: "Data"
+    url: /data
+  - title: "Documentation"
+    url: /documentation
+  - title: "Tutorial"
+    url: /tutorial
+  - title: "Publications"
+    url: /publications
+  - title: "About"
+    url: /about
