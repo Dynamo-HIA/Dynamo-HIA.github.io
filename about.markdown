@@ -12,5 +12,5 @@ The DYNAMO-HIA (Dynamic Modeling for Health Impact Assessment) project was funde
 
 All results of the DYNAMO-HIA project can be found in the Zenodo archive
 
-LINK
+[Zenodo Archive](https://doi.org/10.5281/zenodo.14275979)
 

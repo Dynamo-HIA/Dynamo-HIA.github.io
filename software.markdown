@@ -38,7 +38,7 @@ Older versions of Dynamo-HIA can be downloaded from the GitHub Release page or f
 
 [GitHub releases](https://github.com/rivm-syso/dynamo-hia/releases)
 
-Zenodo archive
+[Zenodo Archive](https://doi.org/10.5281/zenodo.14275979)
 
 ## The R package
 
@@ -50,4 +50,6 @@ As setting up the datasets and configuration can be quite some work, there is an
 
 As an alternative to the R packages, a set of Excel Macros is also available to create Dynamo-HIA datasets.
 
-DOWNLOAD LINK
+- [Excel Macros (zip)](assets/excel_macros/Macro_version208.zip)
+
+- [Older versions in the Zenodo Archive](https://doi.org/10.5281/zenodo.14275979)

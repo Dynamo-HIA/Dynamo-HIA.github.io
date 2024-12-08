@@ -15,4 +15,4 @@ A tutorial has been created for DYNAMO-HIA. The slides and data for this tutoria
 
 For older versions of DYNAMO-HIA (before 2.0.6) the tutorial data has a slighly different format, and is available in the Zenodo archive
 
-- [Zenodo archive]()
+[Zenodo Archive](https://doi.org/10.5281/zenodo.14275979)
