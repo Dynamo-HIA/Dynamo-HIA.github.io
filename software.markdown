@@ -14,6 +14,10 @@ The core of Dynamo-HIA is the model itself and a GUI application to run the mode
 
 The latest update of Dynamo-HIA is a maintenance update to support the latest version of Java and other libraries, as well as a new build system. It does not have any new features compared to the 2.X series.
 
+[GitHub releases](https://github.com/rivm-syso/dynamo-hia/releases)
+
+<!--
+
 The software is available for several operating systems, and both with and without an installer.
 
 | OS   | Installer | Application Only |
@@ -21,6 +25,8 @@ The software is available for several operating systems, and both with and witho
 | Windows | DOWNLOAD | DOWNLOAD |
 | Mac | DOWNLOAD | DOWNLOAD |
 | Linux | DOWNLOAD | DOWNLOAD |
+
+-->
 
 ### Version 2.0.8
 
