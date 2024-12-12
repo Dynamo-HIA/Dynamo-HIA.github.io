@@ -50,7 +50,13 @@ Older versions of Dynamo-HIA can be downloaded from the GitHub Release page or f
 
 As setting up the datasets and configuration can be quite some work, there is an accociated R package to use Dynamo-HIA from and R environment.
 
+[R package website](https://dynamo-hia.github.io/hiaR/index.html)
+
+[R package GitHub repository](https://github.com/Dynamo-HIA/hiaR)
+
 ## The R Shiny app
+
+When the R package is installed, DYNAMO-HIA can be run interactively from R through a Shiny app. See the [R package website](https://dynamo-hia.github.io/hiaR/index.html) for details.
 
 ## Excel Macros
 
